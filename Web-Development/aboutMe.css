@@ -1,0 +1,28 @@
+/*selector
+{
+    property: value;
+}*/
+
+h1
+{
+    color: #FF0000;
+    border: 7px solid rgba(247, 160, 30, 0.8);
+}
+
+li
+{
+    color: rgb(0, 120, 30);
+}
+
+h4
+{
+    color: rgba(0,0,100,0.7);
+    background: rgb(200,60,0);
+}
+
+body
+{
+    background: url(https://www.pictorem.com/collection/900_1846026HighRes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
